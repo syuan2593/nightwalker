@@ -1,0 +1,25 @@
+Nightwalker
+
+Designed with pygame, python 3.8
+
+Artwork by Sean Yuan
+Game Design by Sean Yuan
+
+Menu Background from https://wallpapercave.com/dark-wallpaper-full-hd 
+
+Music:
+Team Rocket Hideout (GSC Remix) by Mewmore
+Battle! Vs Gym Leader (XY Remix) by Mewmore
+Drought (Remix) by Mewmore
+Indigo Plateau (Remix) by Mewmore
+Nimbasa City (Remix) by Mewmore
+
+All sound effects made with my mouth and Audacity
+
+
+Inspired by:
+Nuclear Throne
+Binding of Isaac
+Enter the Gungeon
+Hotline Miami
+Soul Knight
